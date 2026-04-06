@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Héctor Andrés Rodríguez Sierra 👋
+![alt text](<Mi Foto de Perfil (1).png>)
+**Estudiante de Ingeniería | Experto en Morfología Forense y Criminalística** 🕵️‍♂️💻
 
-<!--
-**MetaMorphoLogIAbyHARS/MetaMorphoLogIAbyHARS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estudio Ingenieria de Sisitema de la Información en la Corporación Universitaria Empresarial de Salamanca (Colombia). Mi propósito es integrar el desarrollo web, la programación y la inteligencia artificiale para modernizar los servicios forenses, creando herramientas tecnológicas al servicio del sector público, privado y la ciudadanía.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y Herramientas
+* **Lenguajes:** Python, Java, JavaScript
+* **Desarrollo Web:** HTML, CSS
+* **Áreas de interés:** Inteligencia Artificial aplicada a la Criminalística y la Morfología Forense
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Mi Objetivo Actual
+* Construir mi primer sitio web de servicios forenses para la comunidad.
+* Aplicar al GitHub Student Developer Pack para potenciar mis herramientas de desarrollo.
+
+## 📫 Cómo contactarme
+* **LinkedIn:** www.linkedin.com/in/expertoenmorfologíaforenseycriminalística
+* **Email:** hector.rodriguez997@unisalamanca.edu.co
