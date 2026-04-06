@@ -1,5 +1,7 @@
 # Hola, soy Héctor Andrés Rodríguez Sierra 👋
-![alt text](<Mi Foto de Perfil (1).png>)
+
+<img width="830" height="837" alt="Foto HARS" src="https://github.com/user-attachments/assets/cf3fc360-41f7-46b5-bb3b-eac557124df7" />
+
 **Estudiante de Ingeniería | Experto en Morfología Forense y Criminalística** 🕵️‍♂️💻
 
 Actualmente estudio Ingenieria de Sisitema de la Información en la Corporación Universitaria Empresarial de Salamanca (Colombia). Mi propósito es integrar el desarrollo web, la programación y la inteligencia artificiale para modernizar los servicios forenses, creando herramientas tecnológicas al servicio del sector público, privado y la ciudadanía.
